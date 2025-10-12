@@ -2,4 +2,4 @@ Resources:
   S3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: Bucketname0-171436600796
+      BucketName: bucketname1-171436600796
