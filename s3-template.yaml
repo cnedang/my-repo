@@ -3,4 +3,4 @@ Resources:
     Type: AWS::S3::Bucket
     DeletionPolicy: Retain
     Properties:
-      BucketName: Bucketname0-171436600796
+      BucketName: bucketname0-171436600796
